@@ -1,4 +1,4 @@
-# opal-ideas
+# OPAL Ideas, Roadmap, Wishlist
 
 The issue tracker for this repository outlines potential ideas for OPAL development. 
 
