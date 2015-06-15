@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/openhealthcare/opal-ideas.png?label=ready&title=Ready)](https://waffle.io/openhealthcare/opal-ideas)
 # OPAL Ideas, Roadmap, Wishlist
 
 The issue tracker for this repository outlines potential ideas for OPAL development. 
